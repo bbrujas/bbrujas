@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbrujas
-- 👀 I’m interested in opensource, community development and any type of knowledge that help each one become a better version of themself
+- 👀 I’m interested in opensource, community development and any type of knowledge that help each people become a better version of themselves
 - 🌱 I’m currently learning how to work in a team using development tools like github and also solidity and other smart contracts languages.
 - 📫 You'll find me here at github as @bbrujas.
 
